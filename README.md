@@ -1,2 +1,2 @@
-# ibm-z-datathon
-IBM Z Datathon
+# ibm-z-hackathon
+IBM Z Hackathon
